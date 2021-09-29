@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+A Flutter project using alot components.
 
 ## Getting Started
 
