@@ -6,7 +6,9 @@ final _icons = <String, IconData>{
   'folder_open': Icons.folder_open,
   'notification_add': Icons.notification_add,
   'donut_large': Icons.donut_large,
-  'input': Icons.input
+  'input': Icons.input,
+  'list': Icons.list,
+  'tune': Icons.tune,
 };
 
 Icon getIcon(String nombreIcono) {
@@ -15,4 +17,3 @@ Icon getIcon(String nombreIcono) {
     color: Colors.blue,
   );
 }
-
